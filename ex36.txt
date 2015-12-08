@@ -1,0 +1,11 @@
+rules
+
+1. every if statement must have an else
+2. if else is never used, make a die function in else 
+and print an error message
+3. never nest ifs more than 2 deep and try to do them 1 deep
+4. treat ifs, elifs and elses like paragraphs and 
+group them like sentences
+5. use simple booalean tests. 
+If they are complex, move their calculations to variables earlier
+in function
